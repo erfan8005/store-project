@@ -1,0 +1,22 @@
+{
+  "name": "store-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node start index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auto-bind": "^3.0.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "http-errors": "^2.0.0",
+    "joi": "^17.13.3",
+    "mongoose": "^8.1.1",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.14"
+  }
+}
